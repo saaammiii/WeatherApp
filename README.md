@@ -1,3 +1,3 @@
 # WeatherApp
 
-https://saaammiii.github.io/WeatherApp/
+https://saaammiii.github.io/WeatherApp/weather
